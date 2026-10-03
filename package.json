@@ -1,0 +1,8 @@
+{
+  "name": "citadel-legends-server",
+  "version": "1.0.0",
+  "description": "Relay + matchmaking server for Citadel Legends II online battles",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test_server.js" },
+  "engines": { "node": ">=18" }
+}
